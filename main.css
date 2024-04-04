@@ -1,3 +1,14 @@
-h1 {
-     background-color: aqua;
+body{
+     background-color: black;
+     width: 70%;
+     margin: auto;
+
+}
+.img2{
+     float: right;
+}
+.text{
+ display: inline-block;
+ width: 60%;
+ float: right;
 }
